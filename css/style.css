@@ -1795,7 +1795,7 @@ body {
 @media (max-width: 29.99875em) {
   .header__button {
     font-size: 0;
-    background: #FFCC00 url(../img/Group\ 2.svg) center/auto 50% no-repeat;
+    background: #FFCC00 url(../img/Group2.svg) center/auto 50% no-repeat;
     width: 45px;
     height: 40px;
   }
